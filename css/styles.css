@@ -1,0 +1,16 @@
+img {
+  width: 50%;
+  height: auto;
+  /* text-align: center; */
+}
+body{
+  background-color: black;
+  /* text-align: center; */
+}
+
+.center {
+  text-align: center;
+}
+.white {
+  color: white;
+}
